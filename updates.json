@@ -3,9 +3,9 @@
     "portal-cookie-sync@sahbot": {
       "updates": [
         {
-          "version": "1.0.5.15",
-          "update_link": "https://sah-student.github.io/SAHBot-Firefox-updates/sahbot-firefox-1.0.5.15.xpi",
-          "update_hash": "sha256:3480ad902c7438abc64e06fcc6fae87acfd44fec0d5f052673da3d3d90abb0cf"
+          "version": "1.1.16",
+          "update_link": "https://sah-student.github.io/SAHBot-Firefox-updates/sahbot-firefox-1.1.16.xpi",
+          "update_hash": "sha256:b2d556147ef43c0e4998f284336ca923113c519c2c0608cb9c73fa686367b495"
         }
       ]
     }
