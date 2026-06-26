@@ -3,9 +3,9 @@
     "portal-cookie-sync@sahbot": {
       "updates": [
         {
-          "version": "1.2.6",
-          "update_link": "https://addon.sahbot.koend.nl/sahbot-firefox-1.2.6.xpi",
-          "update_hash": "sha256:9e4eb038c7ab9c4ab7176ccdf445905544588511f7d7217c5e42e192c5b0bc7d"
+          "version": "1.2.7",
+          "update_link": "https://addon.sahbot.koend.nl/sahbot-firefox-1.2.7.xpi",
+          "update_hash": "sha256:19c32d363272480eb5c7773dd85740a17529319dba5e9eb0a7a3be21abdb4626"
         }
       ]
     }
